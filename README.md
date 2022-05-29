@@ -5,9 +5,16 @@
  
 ![Profile View](https://komarev.com/ghpvc/?username=ptPizza&label=Profile%20views&color=0e75b6&style=flat)
  
+ <a href="https://github.com/ptPizza" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
  <a href="https://velog.io/@dev_esther0-0" target="_blank">
   <img src=https://img.shields.io/badge/-Velog-20c997?&style=for-the-badge&logoColor=white alt=velog style="margin-bottom: 8px;" />
 </a>
+ <a href="https://www.notion.so/DEV_smkim0_0-Data-Engineer-6e876a2b613a4716a3585baa8c8578f9" target="_blank">
+  <img src== alt=Notion style="margin-bottom: 8px;" />
+</a>
+ 
  
  <br>
  
