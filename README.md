@@ -15,9 +15,8 @@
  <img src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white alt=Notion style="margin-bottom: 8px;" />
 </a> 
 <br>
- Hello!! 👋 
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=36BCF7FF&size=30&center=true&vCenter=true&width=850&height=70&lines=Hello%2C+ptPizza+world)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=36BCF7FF&size=30&center=true&vCenter=true&width=850&height=70&lines=Hello%2C+ptPizza+world 👋 )](https://git.io/typing-svg)
  
 <h3> 💜💙💚💛🧡 Keep Studing cauz im Platform Engineer 🧡💛💚💙💜 </h3>
 <h4> Im groot cauz growthing </h4>
