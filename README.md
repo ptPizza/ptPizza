@@ -12,12 +12,9 @@
   <img src=https://img.shields.io/badge/-Velog-20c997?&style=for-the-badge&logoColor=white alt=velog style="margin-bottom: 8px;" />
 </a>
  <a href="https://www.notion.so/DEV_smkim0_0-Data-Engineer-6e876a2b613a4716a3585baa8c8578f9" target="_blank">
-  <img src== alt=Notion style="margin-bottom: 8px;" />
-</a>
- 
- 
- <br>
- 
+ <img src=https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Swift&logoColor=white alt=Notion style="margin-bottom: 8px;" />
+</a> 
+<br>
  Hello!! 👋 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=36BCF7FF&size=30&center=true&vCenter=true&width=850&height=70&lines=Hello%2C+ptPizza+world)](https://git.io/typing-svg)
