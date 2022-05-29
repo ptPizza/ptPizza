@@ -12,7 +12,7 @@
   <img src=https://img.shields.io/badge/-Velog-20c997?&style=for-the-badge&logoColor=white alt=velog style="margin-bottom: 8px;" />
 </a>
  <a href="https://www.notion.so/DEV_smkim0_0-Data-Engineer-6e876a2b613a4716a3585baa8c8578f9" target="_blank">
- <img src=https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white alt=Notion style="margin-bottom: 8px;" />
+ <img src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white alt=Notion style="margin-bottom: 8px;" />
 </a> 
 <br>
  Hello!! 👋 
